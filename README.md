@@ -134,4 +134,4 @@ Si la documentacion lo requiere podemos presentar informacion en formatos de tab
 
 ## 9.Imagenes
 Para la vizualizacion de imagenes debemos cargar los archivos en nuestro repositorio y vincularlo.
-![Shinobu](https://github.com/Samuel-Galindo-Vaquier/Practicagit/blob/main/Imagenes/Imagen%20de%20WhatsApp%202024-05-29%20a%20las%2021.49.58_7759eef3.jpg?raw=true)# Proyecto_Practica
+![Katy Perry](https://github.com/Marioleeyva/Proyecto_Practica/blob/main/imagenes%20github/katy.jpg?raw=true)
